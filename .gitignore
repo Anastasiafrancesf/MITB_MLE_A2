@@ -3,10 +3,8 @@ cat >> .gitignore << 'EOF'
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-datamart/
 EOF
 .DS_Store
 __pycache__/
 *.pyc
 .ipynb_checkpoints/
-datamart/
