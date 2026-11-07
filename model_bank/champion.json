@@ -1,0 +1,8 @@
+{
+  "champion": "credit_model_2024_05_01_xgboost.pkl",
+  "challengers": [
+    "credit_model_2024_05_01_logistic_regression.pkl"
+  ],
+  "promoted_on": "2026-10-25 08:35:40",
+  "reason": "first deployment: best test Gini (0.6905)"
+}
